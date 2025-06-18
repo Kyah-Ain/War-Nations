@@ -6,7 +6,7 @@
 ## Overview
   War Nations is a physics-based game where players control real-world countries across history, flinging them at their rivals using a chaotic slingshot mechanic. Starting from the earliest known conflicts and advancing toward the modern era.
 <br><br>
-  This aims to engage players with historical warfare through a humorous and stylized perspective, as each era introduces new abilities and national traits, ensuring that every timeline feels fresh and uniquely distinct. With this, history will remain engaging for most   learners while preserving the integrity of our world’s history for future generations to share.
+  This aims to engage players with historical warfare through a humorous and stylized perspective, as each era introduces new abilities and national traits, ensuring that every timeline feels fresh and uniquely distinct. With this, history will remain engaging for most learners while preserving the integrity of our world’s history for future generations to share.
 
 ## Guide
 ### Launching Country Balls
