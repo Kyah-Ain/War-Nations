@@ -11,23 +11,44 @@
 ## Guide
 ### Launching Country Balls
 - To **launch a country ball**, hold the **Left Mouse Button (LMB)** and drag in any direction. The slingshot will then stretch, gaining its momentum. Releasing the **LMB** launches the ball in the calculated direction. It's **Impact Force** determines how much destruction it caused upon hitting or landing on objects.
-  
-  ![Image](https://github.com/Kyah-Ain/War-Nations/blob/main/Launch%20Tutorial.gif)
 
-### Special Abilities:
+<div align ="center">
+  
+  <img src="https://github.com/Kyah-Ain/War-Nations/blob/main/Launch%20Tutorial.gif" width="900" alt="Resized Image">
+  
+</div>
+
+### Special Abilities
 - Some balls have **special abilities** or **superpowers**. To activate them, click **Left Mouse Button (LMB)** after launching a country ball.
 
-  ![Image](https://github.com/user-attachments/assets/93715891-e4ea-44b9-86cd-f4e53578f030)
+<div align ="center">
+  
+  <img src="https://github.com/user-attachments/assets/93715891-e4ea-44b9-86cd-f4e53578f030" width="900" alt="Resized Image">
+  
+</div>
 
 ### Camera Controls
 - Drag the mouse **Left** or **Right** for camera panning.
 - Use the **Mouse Scroll Wheel** to zoom in or out.
-    
-  ![Image](https://github.com/user-attachments/assets/14cdb676-3104-4d1d-a5ce-676a098e8725)
+
+<div align ="center">
+  
+  <img src="https://github.com/user-attachments/assets/14cdb676-3104-4d1d-a5ce-676a098e8725" width="900" alt="Resized Image">
+  
+</div>
+
+### Goal
+-
+
+<div align ="center">
+  
+  <img src="https://github.com/Kyah-Ain/ReadMeAesthetics/blob/main/GIF/Goal%20(War%20Nations).gif" width="900" alt="Resized Image">
+  
+</div>
 
 ### Controls 
   
-  |     Action      |          Output             |
+  |     Action      |            Input            |
   | --------------- | --------------------------- |
   | Aim             | Hold Left Click + Drag      |
   | Launch          | Release Left Click          |
