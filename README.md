@@ -1,4 +1,4 @@
-# War-Nations: Sling of History (developed using Unity)
+# War Nations: Sling of History (developed using Unity)
 
 ## Logline
   Command nations as pawns in a divine wars, battling through history in this 2D physics game where you slingshot countries to prove divine supremacy.
