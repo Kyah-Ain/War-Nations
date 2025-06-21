@@ -38,7 +38,9 @@
 </div>
 
 ### Goal
--
+- Defeat all enemies using the fewest balls possible.
+- Destroy objects and earn score points as much as you can.
+- Achieve a perfect run to collect all 3 stars! 
 
 <div align ="center">
   
