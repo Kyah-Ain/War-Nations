@@ -1,7 +1,7 @@
 # War-Nations: Sling of History (developed using Unity)
 
 ## Logline
-  In a world divided by the gods, battles arise to demonstrate each god's supremacy, fueling a war that dominates any hope of peace.
+  Command nations as pawns in a divine wars, battling through history in this 2D physics game where you slingshot countries to prove divine supremacy.
 
 ## Overview
   A **2D Physics-Based** game where players control real-world countries across history, flinging them at their rivals using a chaotic slingshot mechanic. Starting from the earliest known conflicts and advancing toward the modern era.
@@ -48,7 +48,7 @@
   
 </div>
 
-### Controls 
+### Controls Summary
   
   |     Action      |            Input            |
   | --------------- | --------------------------- |
